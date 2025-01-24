@@ -2,7 +2,7 @@ import React from 'react';
 
 const App: React.FC = () => {
     return (
-        <div>FE Challange</div>
+        <div>FE Challenge</div>
     );
 };
 
